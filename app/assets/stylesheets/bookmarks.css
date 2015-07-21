@@ -9,6 +9,18 @@ p {
 .header h1 {
   font-family: 'Domine', serif;
   margin: 50px 0 30px 0;
+
+}
+.nav {
+  font-size: 50px;
+  text-decoration: none;
+}
+.nav a {
+  font-family: 'Fontdiner Swanky', serif;
+  text-decoration: none;
+}
+.nav a:hover{
+  text-decoration: none;
 }
 
 /* Book */
@@ -33,6 +45,7 @@ p {
 .description,
 a {
   font-family: 'Libre Baskerville', serif;
+
 }
 
 /* Review */
